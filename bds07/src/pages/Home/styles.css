@@ -1,0 +1,42 @@
+.home-container {
+  padding-left: 20px;
+}
+
+.home-container h1 {
+    padding-top: 15px;
+    font-size: 30px;
+}
+
+.start-button {
+  padding: 0px;
+  height: 40px;
+  width: 160px;
+  color: #fff;
+  text-align: center;
+}
+
+
+
+@media (min-width: 576px) {
+  .home-container {
+    padding-left: 40px;
+  }
+
+  .home-container h1 {
+    font-size: 41px;
+  }
+
+  .home-container p {
+    font-size: 22px;
+  }
+}
+
+@media (min-width: 768px) {
+  .home-container h1 {
+    font-size: 48px;
+  }
+
+  .home-container p {
+    font-size: 25px;
+  }
+}

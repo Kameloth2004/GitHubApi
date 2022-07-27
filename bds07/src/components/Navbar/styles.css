@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Roboto:wght@500&display=swap');
+
+.main-nav {
+  min-height: 82px;
+  background-color: #1890ff;
+  padding-left: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.main-nav h4 {
+  color: #fff;
+  font-size: 28px;
+  font-family: Roboto;
+}
